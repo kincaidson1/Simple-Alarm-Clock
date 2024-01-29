@@ -1,13 +1,13 @@
 # Simple Alarm Clock #
 
-This is a simple code that functions as an alarm clock. it allows the Users to set the desired time for the user to be notified. Alarm time is set in 12-hours format and it gives users to select between AM and PM. The code will continuously check the current time, and when the set time is reached, it will play an alarm sound.
+This is a simple python code that functions as an alarm clock. it allows the Users to set the desired time for the user to be notified. Alarm time is set in 12-hours format and it gives users to select between AM and PM. The code will continuously check the current time, and when the set time is reached, it will play an alarm sound.
 
 # Getting Started 
 
 Prerequisites
 Make sure you have Python installed on your machine. You can download Python from <https//:python.org>
 
-<Installation 
+# Installation 
 
 Clone the repository to your local machine:
 
@@ -31,15 +31,15 @@ Once the alarm time is reached, the script will play an alarm sound. You can adj
 
 The script will print "Alarm ringing........" during the alarm and "Alarm stopped" after the alarm has finished ringing.
 
-<Customization
+# Customization
 
 Feel free to customize the script to fit your needs. You can change the alarm sound file, modify the sleep duration between time checks, or make any other adjustments to suit your preferences.
 
-<Contributing
+# Contributing
 
 If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-<Acknowledgments
+# Acknowledgments
 
 playsound: Library used for playing sound files in Python.
 datetime: Python module for working with dates and times.
